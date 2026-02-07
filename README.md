@@ -1,5 +1,3 @@
-# product-data-reliability
-
 # Product Data Reliability
 
 ## Overview
